@@ -2,6 +2,7 @@ import random
 
 class Account:
     # Construct an Account object
+    #something
  def __init__(self, id, balance = 0, annualInterestRate = 3.4):
   self.id = id
   self.balance = balance
